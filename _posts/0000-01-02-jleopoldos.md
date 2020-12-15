@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Bienvenidos a la segunda página de polo!"
+title: "el mundo se va a acabar jajajaja!"
 
 ---
 
